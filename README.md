@@ -120,7 +120,7 @@ The workings of the Sudoku Validator are quite simple, to be honest. Here's a si
 ## Acknowledgements
 
 - Fraz Bhai - Idea Inspiration
-- Shiva krishna Peechara - Formatting UI Designs
+- [Shiva krishna Peechara](https://www.linkedin.com/in/peechara-shiva-krishna-688844216/)- Formatting UI Designs
 
 ## Tools
 
