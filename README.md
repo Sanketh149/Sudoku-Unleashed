@@ -39,7 +39,7 @@ This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++**
 
 - Once solved, the Sudoku puzzles shall be displayed like this.
 - Infact, This is the world's Toughest sudoku which has possibly only one solution
-- For more details about this you can check [Toughest sudo ever!!](https://abcnews.go.com/blogs/headlines/2012/06/can-you-solve-the-hardest-ever-sudoku)
+- For more details about this you can check the ➡️ [Toughest sudo ever!!](https://abcnews.go.com/blogs/headlines/2012/06/can-you-solve-the-hardest-ever-sudoku)
   ```
     ++=====================================++
     || 8   1   2 || 7   5   3 || 6   4   9 ||
